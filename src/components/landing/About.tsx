@@ -28,7 +28,7 @@ export function About() {
             Começamos em 2004 administrando um único edifício nos Jardins. Hoje cuidamos
             de um portfólio restrito de residências em Jardins, Vila Nova Conceição,
             Higienópolis, Itaim e no litoral norte — sempre com o mesmo critério: se não
-            morarímos nele, não colocamos no catálogo.
+            moraríamos nele, não entra no catálogo.
           </p>
           <p className="mt-4 text-base leading-relaxed text-muted-foreground">
             Trabalhamos com proprietários de longo prazo e inquilinos que valorizam
